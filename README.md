@@ -24,7 +24,6 @@ The compiler processes Jack source files (`.jack`) and outputs corresponding **V
 - `VMWriter.java`: Writes VM commands.
 - `Command.java`, `Segment.java`, `KindType.java`, `KeywordType.java`, `TokenType.java`: Helper enums and classes.
 - `Makefile`: To compile the project easily.
-- `lang.txt`: Language specification and notes.
 
 ---
 
